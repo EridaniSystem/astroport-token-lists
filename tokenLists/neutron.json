@@ -596,5 +596,14 @@
     "decimals": 6,
     "originDenom": "factory/neutron13lkh47msw28yynspc5rnmty3yktk43wc3dsv0l/ATOM1KLFG",
     "originChainId": "neutron-1"
+  },
+  {
+    "protocol": "Christone Lagarde",
+    "symbol": "ChristoneLagarde",
+    "token": "factory/neutron1h0x5aa8q5sw0x5e3yxxp03ejwmstd7945fkk3w/ChristoneLagarde",
+    "icon": "/img/ATOM1KLFG.png",
+    "decimals": 6,
+    "originDenom": "factory/neutron1h0x5aa8q5sw0x5e3yxxp03ejwmstd7945fkk3w/ChristoneLagarde",
+    "originChainId": "neutron-1"
   }
 ]
